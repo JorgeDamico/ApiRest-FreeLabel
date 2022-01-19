@@ -1,0 +1,5 @@
+com/freeLabel/backend/ApiRestFreeLabelApplicationTests.class
+com/freeLabel/backend/service/CategoriaServiceImplTest.class
+com/freeLabel/backend/controllers/CategoriaRestControllerTest.class
+com/freeLabel/backend/pruebas/junit/Calculadora.class
+com/freeLabel/backend/pruebas/junit/CalculadoraTest.class
